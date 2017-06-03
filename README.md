@@ -1,6 +1,6 @@
 # Tropicana Villas Lease Application
 
-Please visit [this link](https://myaccount.tropicanastudenthousing.com/StarRezPortal/Default.aspx?Params=L9ezxPcQnQuRGKTzF%2b4sxeNblvAA%2b26c) and login with my credentials (provided in the email).
+Please visit [this link](https://myaccount.tropicanastudenthousing.com/) and login with my credentials (provided in the email).
 
 Doing so will land you on this page:
 
